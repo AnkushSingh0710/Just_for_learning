@@ -1,2 +1,1 @@
-#this is just for the sake of learning github
- 
+# this is just for the sake of learning github
